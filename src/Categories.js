@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from 'react';
 import MissingPost from './MissingPost';
 import CategoriesListItem from './CategoriesListItem';
 import { Link, useNavigate } from 'react-router-dom';

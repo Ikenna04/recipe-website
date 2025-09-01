@@ -9,8 +9,6 @@ import ReactPlayer from 'react-player';
 const Recipe = ({ meals, setMeals, setSearchHeading, setSearchData }) => {
 	const [meal, setMeal] = useState(null);
 	const [ingredientList, setIngredientList] = useState([]);
-	const [ingredient, setIngredient] = useState([]);
-	const [measure, setMeasure] = useState([]);
 
 	const favRef = useRef(null);
 	const { id } = useParams();
