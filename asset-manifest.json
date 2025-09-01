@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/recipe-website/static/css/main.7a076e45.css",
+    "main.js": "/recipe-website/static/js/main.9f4f8768.js",
+    "reactPlayerYouTube.js": "/recipe-website/static/js/reactPlayerYouTube.cc802e6c.chunk.js",
+    "reactPlayerSoundCloud.js": "/recipe-website/static/js/reactPlayerSoundCloud.933fe5ea.chunk.js",
+    "reactPlayerVimeo.js": "/recipe-website/static/js/reactPlayerVimeo.39c6b7c7.chunk.js",
+    "reactPlayerMux.js": "/recipe-website/static/js/reactPlayerMux.f9965124.chunk.js",
+    "reactPlayerFacebook.js": "/recipe-website/static/js/reactPlayerFacebook.eb855542.chunk.js",
+    "reactPlayerStreamable.js": "/recipe-website/static/js/reactPlayerStreamable.a1e57f11.chunk.js",
+    "reactPlayerWistia.js": "/recipe-website/static/js/reactPlayerWistia.40b64326.chunk.js",
+    "reactPlayerTwitch.js": "/recipe-website/static/js/reactPlayerTwitch.4831e1a8.chunk.js",
+    "reactPlayerDailyMotion.js": "/recipe-website/static/js/reactPlayerDailyMotion.a423522e.chunk.js",
+    "reactPlayerMixcloud.js": "/recipe-website/static/js/reactPlayerMixcloud.598d00b5.chunk.js",
+    "reactPlayerVidyard.js": "/recipe-website/static/js/reactPlayerVidyard.1580cf51.chunk.js",
+    "reactPlayerKaltura.js": "/recipe-website/static/js/reactPlayerKaltura.0cbd2ddf.chunk.js",
+    "reactPlayerFilePlayer.js": "/recipe-website/static/js/reactPlayerFilePlayer.eb5320b7.chunk.js",
+    "reactPlayerPreview.js": "/recipe-website/static/js/reactPlayerPreview.5543552d.chunk.js",
+    "index.html": "/recipe-website/index.html",
+    "main.7a076e45.css.map": "/recipe-website/static/css/main.7a076e45.css.map",
+    "main.9f4f8768.js.map": "/recipe-website/static/js/main.9f4f8768.js.map",
+    "reactPlayerYouTube.cc802e6c.chunk.js.map": "/recipe-website/static/js/reactPlayerYouTube.cc802e6c.chunk.js.map",
+    "reactPlayerSoundCloud.933fe5ea.chunk.js.map": "/recipe-website/static/js/reactPlayerSoundCloud.933fe5ea.chunk.js.map",
+    "reactPlayerVimeo.39c6b7c7.chunk.js.map": "/recipe-website/static/js/reactPlayerVimeo.39c6b7c7.chunk.js.map",
+    "reactPlayerMux.f9965124.chunk.js.map": "/recipe-website/static/js/reactPlayerMux.f9965124.chunk.js.map",
+    "reactPlayerFacebook.eb855542.chunk.js.map": "/recipe-website/static/js/reactPlayerFacebook.eb855542.chunk.js.map",
+    "reactPlayerStreamable.a1e57f11.chunk.js.map": "/recipe-website/static/js/reactPlayerStreamable.a1e57f11.chunk.js.map",
+    "reactPlayerWistia.40b64326.chunk.js.map": "/recipe-website/static/js/reactPlayerWistia.40b64326.chunk.js.map",
+    "reactPlayerTwitch.4831e1a8.chunk.js.map": "/recipe-website/static/js/reactPlayerTwitch.4831e1a8.chunk.js.map",
+    "reactPlayerDailyMotion.a423522e.chunk.js.map": "/recipe-website/static/js/reactPlayerDailyMotion.a423522e.chunk.js.map",
+    "reactPlayerMixcloud.598d00b5.chunk.js.map": "/recipe-website/static/js/reactPlayerMixcloud.598d00b5.chunk.js.map",
+    "reactPlayerVidyard.1580cf51.chunk.js.map": "/recipe-website/static/js/reactPlayerVidyard.1580cf51.chunk.js.map",
+    "reactPlayerKaltura.0cbd2ddf.chunk.js.map": "/recipe-website/static/js/reactPlayerKaltura.0cbd2ddf.chunk.js.map",
+    "reactPlayerFilePlayer.eb5320b7.chunk.js.map": "/recipe-website/static/js/reactPlayerFilePlayer.eb5320b7.chunk.js.map",
+    "reactPlayerPreview.5543552d.chunk.js.map": "/recipe-website/static/js/reactPlayerPreview.5543552d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a076e45.css",
+    "static/js/main.9f4f8768.js"
+  ]
+}
